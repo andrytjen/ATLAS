@@ -1,0 +1,6 @@
+{
+    "version": "0.2.0",
+    "hash_algorithm": "sha256",
+    "export_folder": "exports",
+    "log_folder": "logs"
+}
